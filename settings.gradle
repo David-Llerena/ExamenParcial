@@ -1,0 +1,2 @@
+rootProject.name = "amst_3g_david_llerena"
+include ':app'
